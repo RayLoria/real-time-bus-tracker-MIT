@@ -47,7 +47,7 @@
 
 ## :dart: About
 
-This project was made with mapbox for run this project you need to go to the next link https://www.mapbox.com/ create a account and following the instruccion of the mapbox for genered mapbox key
+This project was made with mapbox for run this project you need to go next link https://www.mapbox.com/ create a account and following the instruccion of the mapbox for genered mapbox key add your own access token change access token (mapboxgl.accessToken = "";) with your own key and run de project with live server.
 
 ## :sparkles: Features
 
