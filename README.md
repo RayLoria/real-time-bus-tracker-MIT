@@ -49,6 +49,15 @@
 
 This project was made with mapbox for run this project you need to go next link https://www.mapbox.com/ create a account and following the instruccion of the mapbox for genered mapbox key add your own access token change access token (mapboxgl.accessToken = "";) with your own key and run de project with live server.
 
+## :minidisc: How to run ##
+
+No special installation required, just open the index.html file in a web browser. To edit have visual studio code installed.
+
+## :spiral_calendar: Roadmap of future improvements ##
+
+:black_circle: Fix some bugs with the key token is necessary to make the .env file.
+:black_circle: Fix responsive design and add some CSS to improve the style.
+
 ## :sparkles: Features
 
 :heavy_check_mark: A marker is generated that records a school bus trajectory;\
