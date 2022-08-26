@@ -55,8 +55,9 @@ No special installation required, just open the index.html file in a web browser
 
 ## :spiral_calendar: Roadmap of future improvements ##
 
-:black_circle: Fix some bugs with the key token is necessary to make the .env file.
-:black_circle: Fix responsive design and add some CSS to improve the style.
+:black_circle: Fix some bugs with the key token is necessary to make the .env file
+
+:black_circle: Fix responsive design and add some CSS to improve the style
 
 ## :sparkles: Features
 
